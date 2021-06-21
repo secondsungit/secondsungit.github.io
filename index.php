@@ -34,70 +34,70 @@ $(document).ready(function(){
 <body>
 <div id="container" class="width">
 
-    <header> 
+    <header>
 	<div class="width">
 
-    		<h1><a href="index.php">secondSun</a></h1>
+    		<h1><a href="index.html">secondSun</a></h1>
 
 		<nav>
-	
+
     			<ul class="sf-menu dropdown">
 
-			
-        			<li class="selected"><a href="index.php">Home</a></li>
+
+        			<li class="selected"><a href="index.html">Home</a></li>
 
             			<li>
 
 					<a href="javascript:void();">Technology Overview</a>
-            			
+
 					<ul>
-      
-						<li><a href="toi.php">Field of Invention </a></li>
-                    				<li><a href="boi.php">Background of Invention</a></li>
+
+						<li><a href="toi.html">Field of Invention </a></li>
+                    				<li><a href="boi.html">Background of Invention</a></li>
                 	</ul>
 
             			</li>
 
-	     			<li><a href="desc.php">Description</a></li>
-            
+	     			<li><a href="desc.html">Description</a></li>
+
 				<li>
 
-					<a href="pro.php">Procedure</a>
-            				
-					
+					<a href="pro.html">Procedure</a>
+
+
 	            </li>
-                <li><a href="patent.php">Patent Chronology</a></li>
-		
+                <li><a href="patent.html">Patent Chronology</a></li>
+
        			</ul>
 
-			
+
 			<div class="clear"></div>
     		</nav>
        	</div>
 
 	<div class="clear"></div>
 
-       
+
     </header>
 
 
     <div id="intro">
 
 	<div class="width">
-      
+
 		<div class="intro-content">
-	
+
                     <h2>Second Sun System</h2>
                     <p>System to grow plants under shade</p>
-                                  	
+
 			<p><a href="http://www.google.com/patents/WO2015083019A1" class="button button-slider"><i class="fa fa-check"></i> My Patent Link</a>
-							<a href="patent.php" class="button button-reversed button-slider"><i class="fa fa-info"></i> Patent Chronological</a></p>
-                    
+							<a href="patent.html" class="button button-reversed button-slider"><i class="fa fa-info"></i> Patent Chronological</a></p>
+
 
             	</div>
-                
+
             </div>
-            
+
 
 	</div>
 
@@ -108,13 +108,13 @@ $(document).ready(function(){
 		<section id="content" class="two-column with-right-sidebar">
 
 	    <article>
-				
-			
+
+
 			<h2>Introduction to Second Sun System</h2>
-			
+
 
             <p>Welcome to Second Sun System,</p>
-			
+
 <p> MILLIONS OF HECTACRES of <strong>FERTILE LAND</strong> is lying either unused or insufficiently used under shadow of canopy of trees in ORCHARDS, GRAPES FIELDS and GARDENS.
 		<p>Considering the fact that:</p>
 		The land under shade is fertile enough;	The water is available for irrigation;	The manpower is there to work on it.
@@ -123,43 +123,43 @@ $(document).ready(function(){
    <p>Thats Only because of absence of sun light.</p>
    Second Sun System presents patented solution to this problem-
    "Systems to grow plants under shade".
- 
+
    <p>Please refer to <a href="http://www.google.com/patents/WO2015083019A1" rel="nofollow">My Patent link</a> for further reference.</p>
-		
+
 		</article>
         </section>
-        
+
         <aside class="sidebar big-sidebar right-sidebar">
-	
-	
-            <ul>	
+
+
+            <ul>
                <li class="color-bg">
-                    
+
                     <ul class="blocklist">
-                        <li><a class="selected" href="index.php">Home Page</a></li>
+                        <li><a class="selected" href="index.html">Home Page</a></li>
 						<li><h4>1. Complete Device</h4></li>
                         <li><a href="image1.jpeg" class="zoom"><img id="image1" src="image1.jpeg" alt=""  /></a></li>
-                        
+
 						<li><h4>2. Ratchet- Electromagnetic coil for rotation of Sun Tube</h4></li>
                         <li><a href="image2.jpeg"><img src="image2.jpeg" alt=""   /></a></li>
-						
+
 						<li><h4>3. Ratchet- Electromagnetic coil for rotation of Sun Tube</h4></li>
                         <li><a href="image4.jpeg"><img src="image4.jpeg" alt=""   /></a></li>
-						
+
 						<li><h4>4. Scehmatic drawing showing sun tube recieving Sun Light and Dispersing it evenly on plants under shade</h4></li>
                         <li><a href="image3.bmp"><img src="image3.bmp" alt=""   /></a></li>
 					</ul>
-				   
+
 			</li>
-                
+
                     </ul>
                 </li>
-                
-               
 
-		
-               
-            
+
+
+
+
+
         </aside>
     	<div class="clear"></div>
     </div>
@@ -167,26 +167,26 @@ $(document).ready(function(){
         <div class="footer-content">
             <ul>
             	<li><h3>Contact Us</h3></li>
-                
+
             </ul>
-            
+
             <ul>
             	<li><h4>Sukhbir Singh Sokhi  (Founder)</h4></li>
-                <li><h5>           Regd. Office: 6004,Sokhi Road, Simla Puri, 
-                               Ludhiana-141003, Punjab, India. 
+                <li><h5>           Regd. Office: 6004,Sokhi Road, Simla Puri,
+                               Ludhiana-141003, Punjab, India.
                     </h5>
 				</li>
                 <li>    <h5>      Mobile:+91-9781300411</h5></li>
                 <li>     <h5>     Email: sukhbirsokhi@gmail.com</h5></li>
-                
+
             </ul>
 
  	    <ul>
                 <li><h4>Dilraj Singh (Co-Founder)</h4></li>
                 <li><h5>Email: dilmastersokhi@gmail.com</h5></li>
-                
+
             </ul>
-            
+
             <ul class="endfooter">
             	<li><h4>Tajinder Singh ( CFO )</h4></li>
                 <li><h5>Email: catajindersingh@yahoo.co.in</h5> </li>
@@ -194,20 +194,20 @@ $(document).ready(function(){
 
 
             </ul>
-            
+
             <div class="clear"></div>
         </div>
         <div class="footer-bottom">
             <p></p>
          </div>
     </footer>
-       
-     
-            
+
+
+
             <div class="clear"></div>
         </div>
         <div class="footer-bottom">
-           
+
          </div>
     </footer>
 </div>

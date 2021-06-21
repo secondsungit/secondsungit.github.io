@@ -33,62 +33,62 @@ License: Creative Commons Attribution
 <body>
 <div id="container"  class="width">
 
-    <header> 
+    <header>
 	<div>
-    		
 
-		<h1><a href="index.php">secondsun</a></h1>
+
+		<h1><a href="index.html">secondsun</a></h1>
 
 		<nav>
-	
+
     			<ul class="sf-menu dropdown">
 
-		<li><a href="index.php">Home</a></li>
+		<li><a href="index.html">Home</a></li>
 <li>
             		<a href="javascript:void();">Technology Overview</a>
-            			
+
 					<ul>
-      
-						<li><a href="toi.php">Field of Invention </a></li>
-                    				<li><a href="boi.php">Background of Invention</a></li>
+
+						<li><a href="toi.html">Field of Invention </a></li>
+                    				<li><a href="boi.html">Background of Invention</a></li>
                 	</ul>
 
             			</li>
 
-	     			<li><a href="desc.php">Description</a></li>
-            
+	     			<li><a href="desc.html">Description</a></li>
+
 				<li>
 
-					<a href="pro.php">Procedure</a>
-            				
-					
+					<a href="pro.html">Procedure</a>
+
+
 	            </li>
-                <li><a href="patent.php">Patent Chronology</a></li>
+                <li><a href="patent.html">Patent Chronology</a></li>
        			</ul>
 
-			
+
 			<div class="clear"></div>
     		</nav>
        	</div>
 
 	<div class="clear"></div>
 
-       
+
     </header>
 
 
     <div id="intro">
 
 	<div class="width">
-      
+
 		<div class="intro-content intro-content-short">
-	
+
                     <h2>Procedure</h2>
-                   
+
             	</div>
-                
+
             </div>
-            
+
 
     </div>
 
@@ -97,13 +97,13 @@ License: Creative Commons Attribution
 	<section id="content" class="two-column with-right-sidebar">
 
 	    <article>
-				
-			
-	    
+
+
+
 
             <p>
-( Ref. figure of Schematic drawing showing Sun Light being delivered to plants under shade.) Sunlight enters in sun tube through dome shaped Sun light receiving unit; inner lining of aluminum reflects sun light to bottom of sun tube. Here sun light is dispersed through Sun light dispersing unit  rotationally at 1-2 revolution per hour. 
-Thus sun light reaches to under shadow plants or grass to start photosynthesis process in leaves. 
+( Ref. figure of Schematic drawing showing Sun Light being delivered to plants under shade.) Sunlight enters in sun tube through dome shaped Sun light receiving unit; inner lining of aluminum reflects sun light to bottom of sun tube. Here sun light is dispersed through Sun light dispersing unit  rotationally at 1-2 revolution per hour.
+Thus sun light reaches to under shadow plants or grass to start photosynthesis process in leaves.
 
 <h4>Advantages over current practice of cultivation of only crop or only fruit trees:</h4>
 <ul>
@@ -143,38 +143,38 @@ or by trees.
 
 		</article>
         </section>
-        
+
         <aside class="sidebar big-sidebar right-sidebar">
-	
-	
-            <ul>	
+
+
+            <ul>
                <li class="color-bg">
-                    
+
                     <ul class="blocklist">
-                       <li><a class="selected" href="index.php">Home Page</a></li>
+                       <li><a class="selected" href="index.html">Home Page</a></li>
 						<li><h4>1. Complete Device</h4></li>
                         <li><a href="image1.jpeg" class="zoom"><img id="image1" src="image1.jpeg" alt=""  /></a></li>
-                        
+
 						<li><h4>2. Ratchet- Electromagnetic coil for rotation of Sun Tube</h4></li>
                         <li><a href="image2.jpeg"><img src="image2.jpeg" alt=""   /></a></li>
-						
+
 						<li><h4>3. Ratchet- Electromagnetic coil for rotation of Sun Tube</h4></li>
                         <li><a href="image4.jpeg"><img src="image4.jpeg" alt=""   /></a></li>
-						
+
 						<li><h4>4. Scehmatic drawing showing sun tube recieving Sun Light and Dispersing it evenly on plants under shade</h4></li>
                         <li><a href="image3.bmp"><img src="image3.bmp" alt=""   /></a></li>
 				</ul>
 			</li>
-                
-               
-            </ul>		
-               
-          
-          
-                
-                
-            
-		
+
+
+            </ul>
+
+
+
+
+
+
+
         </aside>
     	<div class="clear"></div>
     </div>
@@ -182,26 +182,26 @@ or by trees.
         <div class="footer-content">
             <ul>
             	<li><h3>Contact Us</h3></li>
-                
+
             </ul>
-            
+
             <ul>
             	<li><h4>Sukhbir Singh Sokhi  (Founder)</h4></li>
-                <li><h5>           Regd. Office: 6004,Sokhi Road, Simla Puri, 
-                               Ludhiana-141003, Punjab, India. 
+                <li><h5>           Regd. Office: 6004,Sokhi Road, Simla Puri,
+                               Ludhiana-141003, Punjab, India.
                     </h5>
 				</li>
                 <li>    <h5>      Mobile:+91-9781300411</h5></li>
                 <li>     <h5>     Email: sukhbirsokhi@gmail.com</h5></li>
-                
+
             </ul>
 
  	    <ul>
                 <li><h4>Dilraj Singh (Co-Founder)</h4></li>
                 <li><h5>Email: dilmastersokhi@gmail.com</h5></li>
-                
+
             </ul>
-            
+
             <ul class="endfooter">
             	<li><h4>Tajinder Singh ( CFO )</h4></li>
                 <li><h5>Email: catajindersingh@yahoo.co.in</h5> </li>
@@ -209,14 +209,14 @@ or by trees.
 
 
             </ul>
-            
+
             <div class="clear"></div>
         </div>
         <div class="footer-bottom">
             <p></p>
          </div>
     </footer>
-      
+
 </div>
 </body>
 </html>
